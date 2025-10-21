@@ -1,32 +1,57 @@
-# 👋 Hi, I'm Majd Dayoub  
+# Hi 👋, I'm Majd Dayoub
 
-🎯 ** Software Engineer  | Cloud Engineer **  
-📍 Toronto, Canada  
-
----
-## 🤝 Let's Connect
-
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/MajdDayoub/) — Let’s build meaningful connections.  
-- 🌐 [**Portfolio**](https://majd-dayoub.github.io/mdayoubPortfolio/) — Explore my projects and work.  
-- 📫 **majd.dayoub04@gmail.com** — Feel free to reach out directly.
-
-
-## 🚀 About Me  
-
-I'm a passionate and curious problem-solver who loves working on Full-Stack applications with a focus on cloud and infrastructure. 
-I’ve worn multiple hats, **Software Engineer**, **Cloud Engineer**, and **Data Engineer**, which gives me a unique full-stack perspective on data systems and software products. My work has automated hours of manual work, boosted operational efficiency, and supported real-world decision making at scale.
+Software  & Cloud Engineer 💻☁️ 
+AWS • Azure • TypeScript • Python • SQL 
 
 ---
 
-## 🧑‍💻 Experience Highlights
+## 📬 Let's Connect
 
-### ☁️ Incoming Cloud Engineer — *The Co-operators* *(Jan 2026 – Sep 2026)*  
+I’m always open to connecting with engineers, builders, and problem-solvers 🚀
 
-### 💡 Data Engineer Co-op — *Purolator Inc.* *(May 2025 – Aug 2025)*  
-
-### 🛠️ Software Engineer Co-op — *Mitsubishi Heavy Industries Aerospace Inc.* *(May 2024 – Dec 2024)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MajdDayoub/) 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Majd-Dayoub)
+[![Portfolio](https://img.shields.io/badge/Portfolio-663399?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://majd-dayoub.github.io/mdayoubPortfolio/)
+[![Email](https://img.shields.io/badge/Email%20(Personal)-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majd.dayoub04@gmail.com)
 
 ---
 
+## 🏅 Certifications
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🌟 About Me
+- 🚀 Passionate about **software engineering**, **automation**, and **cloud infrastructure**.
+- 
+- ☁️ Incoming **Cloud Engineer @ The Co-operators** (Jan 2026 – Sep 2026) — working across **AWS**, **Azure**, and **OpenShift**.  
+- 📊 **Data Engineer Co-op @ Purolator** — built ETL pipelines, automated reporting, and processed 1M+ records weekly.  
+- 🛠️ **Software Engineer Co-op @ Mitsubishi Heavy Industries Aerospace** — developed aircraft scheduling and device management application in **C#/.NET**
+
+
+---
+
+## 🧰 Skills & Tools
+
+### ☁️ Cloud & Backend
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧠 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 
