@@ -42,7 +42,7 @@ I’m always open to connecting with engineers, builders, and problem-solvers �
 
 ### 🧠 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🛠 Tools & Platforms
