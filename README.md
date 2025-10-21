@@ -14,7 +14,7 @@
 ## 🚀 About Me  
 
 I'm a passionate and curious problem-solver who loves working on Full-Stack applications with a focus on cloud and infrastructure. 
-I’ve worn multiple hats — **Software Engineer**, **Cloud Engineer**, and **Data Engineer** — which gives me a unique full-stack perspective on data systems and software products. My work has automated hours of manual work, boosted operational efficiency, and supported real-world decision making at scale.
+I’ve worn multiple hats, **Software Engineer**, **Cloud Engineer**, and **Data Engineer**, which gives me a unique full-stack perspective on data systems and software products. My work has automated hours of manual work, boosted operational efficiency, and supported real-world decision making at scale.
 
 ---
 
