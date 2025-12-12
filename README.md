@@ -1,7 +1,7 @@
 # Hi 👋, I'm Majd Dayoub
 
 Software  & Cloud Engineer 💻☁️ 
-AWS • Azure • TypeScript • Python • SQL 
+ Java • TypeScript • Python • AWS • Azure • SQL 
 
 ---
 
