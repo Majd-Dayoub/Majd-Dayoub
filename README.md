@@ -26,7 +26,7 @@ I’m always open to connecting with engineers, builders, and problem-solvers �
 - 🚀 Passionate about **software engineering**, **automation**, and **cloud infrastructure**.
   
 - ☁️ Incoming **Cloud Engineer @ The Co-operators** (Jan 2026 – Sep 2026) — working across **AWS**, **Azure**, and **OpenShift**.  
-- 📊 **Data Engineer Co-op @ Purolator** — built ETL pipelines, automated reporting, and processed 1M+ records weekly.  
+- 📊 **Software Engineer Co-op @ Purolator** — Shipped Features for Internal Tooling, built ETL pipelines, automated reporting, and processed 1M+ records weekly.  
 - 🛠️ **Software Engineer Co-op @ Mitsubishi Heavy Industries Aerospace** — developed aircraft scheduling and device management application in **C#/.NET**
 
 
