@@ -1,13 +1,13 @@
 # Hi 👋, I'm Majd Dayoub
 
 Software  & Cloud Engineer 💻☁️ 
- Java • TypeScript • Python • AWS • Azure • SQL 
+ Java • Python • Spring • AWS • Azure • SQL 
 
 ---
 
 ## 📬 Let's Connect
 
-I’m always open to connecting with engineers, builders, and problem-solvers 🚀
+I’m always open to network 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MajdDayoub/) 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Majd-Dayoub)
@@ -16,16 +16,10 @@ I’m always open to connecting with engineers, builders, and problem-solvers �
 
 ---
 
-## 🏅 Certifications
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
 ## 🌟 About Me
-- 🚀 Passionate about **software engineering**, **automation**, and **cloud infrastructure**.
+- 🚀 Passionate about **software engineering**, **Data Engineering**, and **infrastructure**.
   
-- ☁️ Incoming **Cloud Engineer @ The Co-operators** (Jan 2026 – Sep 2026) — working across **AWS**, **Azure**, and **OpenShift**.  
+- ☁️ **Cloud Engineer Co-op @ The Co-operators** — working across **AWS**, **Azure**, and **OpenShift**.  
 - 📊 **Software Engineer Co-op @ Purolator** — Shipped Features for Internal Tooling, built ETL pipelines, automated reporting, and processed 1M+ records weekly.  
 - 🛠️ **Software Engineer Co-op @ Mitsubishi Heavy Industries Aerospace** — developed aircraft scheduling and device management application in **C#/.NET**
 
@@ -42,6 +36,7 @@ I’m always open to connecting with engineers, builders, and problem-solvers �
 
 ### 🧠 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
